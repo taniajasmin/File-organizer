@@ -1,12 +1,14 @@
 ## File Organizer
 A simple Python script to automatically organize messy folders by sorting files into categories based on their type.
 
+
 ### 🌟 Features
 - One-click organization for any folder on your computer
 - Smart categorization of files into intuitive folders (Images, Documents, Software, etc.)
 - Duplicate file handling to ensure nothing gets overwritten
 - Simple interface that anyone can use
 - Works across platforms (Windows, Mac, Linux)
+
 
 ### 📋 How It Works
 The File Organizer scans your selected folder and automatically sorts files by type:
@@ -19,6 +21,7 @@ The File Organizer scans your selected folder and automatically sorts files by t
 - 🎬 Videos: mp4, mov, avi, etc.
 - 💻 Code: py, js, html, etc.
 ...and many more!
+
 
 ### 🚀 Usage
 1. Run the script: python file_organizer.py
@@ -38,6 +41,7 @@ Proceed with organization? (yes/no): yes
 
 🔄 Organizing files...
 ```
+
 
 ✨ Example Results
 Before:
@@ -65,16 +69,17 @@ Downloads/
 └── ... (other category folders)
 ```
 
-###💡 Why I Built This
+
+### 💡 Why I Built This
 I was tired of having a messy downloads folder with hundreds of files. This simple script has saved me hours of manual organization and helps me find files quickly when I need them.
 
-###🔧 Requirements
+### 🔧 Requirements
 - Python 3.6 or higher
 - No external libraries needed (uses only standard library)
 
-###📝 License
+### 📝 License
 MIT License - feel free to use and modify!
 
 ==================================================
 
-Made with ❤️ to end download folder chaos
+**Made with ❤️ to end download folder chaos**
